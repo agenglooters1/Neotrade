@@ -10,7 +10,7 @@ interface LayoutProps {
   title: string;
   tickerData?: any[];
   isHome?: boolean;
-  language: Language;
+  language: Language
   user?: UserType | null;
 }
 
